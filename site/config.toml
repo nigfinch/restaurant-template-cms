@@ -16,6 +16,6 @@ title = "Tasty Licks"
     weight = 2
 
 [[menu.main]]
-    name = "Sex"
-    url  = "/sex"
-    weight = 3
+   name = "Drinks"
+   url  = "/drinks"
+   weight = 3
