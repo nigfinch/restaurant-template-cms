@@ -25,8 +25,6 @@ collections:
       - {label: "Type of Drink", name: "type", widget: "string", default: "beer"}
       - {label: "Price", name: "price", widget: "string"}
 
-media_folder: "src/img/gallery" # Folder where user uploaded files should go
-...
   - name: gallery
     label: "Gallery Image" # Used in the UI, ie.: "New Post"
     folder: "site/content/gallery" # The path to the folder where the documents are stored
