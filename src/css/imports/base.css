@@ -167,7 +167,10 @@ img {
     max-height: 200px;
   }
 }
+.logo {
+  min-height: 5px;
 
+}
 table {
   margin-bottom: 1rem;
   width: 100%;
